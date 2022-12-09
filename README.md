@@ -6,36 +6,31 @@
 My name is Chrisbin Sunny and I'm a Mobile Developer from India. I'm using Flutter as my main tool and is currently on a mission to make clean UI/UX using Flutter Web. You can find me on [Twitter][1],  or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=plastic&logo=android-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=plastic&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=plastic&logo=digitalocean&logoColor=white&color=2bbc8a)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c)
+
 
 ## &#x270d; Projects & Slides
-### My Recent projects
+### Recent projects
 
-- [Chrisbin's MacBook Pro](https://chrisbinsunny.github.io/chrishub)  ![GitHub Repo stars](https://img.shields.io/github/stars/chrisbinsunny/chrishub?style=flat-square)
+- [__Chrisbin's MacBook Pro__](https://chrisbinsunny.github.io/chrishub)  ![GitHub Repo stars](https://img.shields.io/github/stars/chrisbinsunny/chrishub?style=flat-square)
   - A portfolio website built as a __Web Simulation__ of __macOS Big Sur__. 
   - Implemented Terminal, Safari, Messages, VSCode, Spotify, etc. 
   - Integrated features like create/delete folder, change brightness, wallpaper, etc. 
   - Used __Provider__ for managing the state and __Hive__ as local database. 
   - Tech stack: __Flutter, Firebase, Hive__
 
-- [D R E A M](https://chrisbinsunny.github.io/dream)  ![GitHub Repo stars](https://img.shields.io/github/stars/chrisbinsunny/dream?style=flat-square)
+- [__D R E A M__](https://chrisbinsunny.github.io/dream)  ![GitHub Repo stars](https://img.shields.io/github/stars/chrisbinsunny/dream?style=flat-square)
   - A website built to __find colours__ from images and screenshots.
   - Implemented a __gradient builder__ to create website backgrounds.
   - Integrated __CSS code__ copying and sharing. 
   - Used __Provider__ for managing the state. 
   - Tech stack: __Flutter__
 
-### My Recent projects
+### Slides
 
 My main objective is to make technology reach everyone, so apart from coding, I also conduct tech talks and workshops at schools and colleges. 
 My slides on "Intro to Flutter" is open source and you can find it here:
-- [Flutter Talks](https://chrisbinsunny.github.io/Flutter-Talks)
+- [__Flutter Talks__](https://chrisbinsunny.github.io/Flutter-Talks)
   - A website is built using __Flutter Web__.
   - Works by taking the input from __arrow keys__ on the keyboard.
   - Tech stack: __Flutter__
