@@ -38,7 +38,7 @@ My slides on "Intro to Flutter" is open source and you can find it here:
 
 ## &#x1f4c8; GitHub Stats
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=chrisbinsunny&label=Visitors&countColor=%2337d67a&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=chrisbinsunny&label=Visitors&countColor=%2303356b&labelStyle=none)
 
 <a href="https://github.com/chrisbinsunny/chrisbinsunny">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbinsunny&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
