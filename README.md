@@ -41,19 +41,19 @@ My slides on "Intro to Flutter" is open source and you can find it here:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=chrisbinsunny&label=Visitors&countColor=%2303356b&labelStyle=none)
 
 <a href="https://github.com/chrisbinsunny/chrisbinsunny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbinsunny&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-chrisbinsunny.vercel.app/api/top-langs/?username=chrisbinsunny&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/chrisbinsunny/chrisbinsunny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisbinsunny&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chrisbin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-chrisbinsunny.vercel.app/api?username=chrisbinsunny&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chrisbin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/chrisbinsunny/chrishub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisbinsunny&repo=chrishub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=chrisbinsunny&repo=chrishub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/chrisbinsunny/dream">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisbinsunny&repo=dream&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=chrisbinsunny&repo=dream&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
